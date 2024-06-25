@@ -9,11 +9,12 @@ Steps:
 
 Output:
 
-https://github.com/bssadiya/Image-Classification-/assets/156563575/6cff76e6-e89d-4cde-aa1b-914370178922)
+![image](https://github.com/bssadiya/Image-Classification-/assets/156563575/fc6251b8-a554-48ed-b1e6-10186a8ab53d)
 
 
 
 
 
-![image]
+
+
 
